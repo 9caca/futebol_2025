@@ -1,0 +1,6 @@
+Dois assuntos:
+
+1. Em relacao ao codigo. Provavelmente nao ficou da melhor forma, mas eu acho que cumpriu o objetivo. Nos proximos passos acho que da pra ir melhorando, acredito que essa parte vai ser facil.
+
+2. Em relacao o Github. Acho que pra mim esse era o objetivo principal, nao sei se voce esta' mais familiarizado. QUando voce clonou o repositorio, eu imaginava que estaria apenas "copiando" os arquivos para seu repositorio local, mas o clone foi para o seu github tambem.
+Agora nos temos dois projetos, ou apenas um so'? EU nao dei nenhum commit ainda, talvez eu descubra agora. Quando eu der um commit ele vai atualizar apenas o meu repositorio ou os dois?
